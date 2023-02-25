@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ferapontova_demo/static/css/main.6d614d66.css",
-    "main.js": "/ferapontova_demo/static/js/main.2c2d45d1.js",
+    "main.js": "/ferapontova_demo/static/js/main.b80cca38.js",
     "index.html": "/ferapontova_demo/index.html",
     "main.6d614d66.css.map": "/ferapontova_demo/static/css/main.6d614d66.css.map",
-    "main.2c2d45d1.js.map": "/ferapontova_demo/static/js/main.2c2d45d1.js.map"
+    "main.b80cca38.js.map": "/ferapontova_demo/static/js/main.b80cca38.js.map"
   },
   "entrypoints": [
     "static/css/main.6d614d66.css",
-    "static/js/main.2c2d45d1.js"
+    "static/js/main.b80cca38.js"
   ]
 }
